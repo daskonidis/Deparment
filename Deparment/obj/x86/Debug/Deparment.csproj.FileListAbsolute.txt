@@ -1,0 +1,14 @@
+D:\Projects\Deparment\Deparment\bin\x86\Debug\Deparment.exe.config
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Interop.COECRCOMLib.dll
+D:\Projects\Deparment\Deparment\obj\x86\Debug\AxInterop.COECRCOMLib.dll
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.csproj.ResolveComReference.cache
+D:\Projects\Deparment\Deparment\bin\x86\Debug\Deparment.exe
+D:\Projects\Deparment\Deparment\bin\x86\Debug\Deparment.pdb
+D:\Projects\Deparment\Deparment\bin\x86\Debug\Interop.COECRCOMLib.dll
+D:\Projects\Deparment\Deparment\bin\x86\Debug\AxInterop.COECRCOMLib.dll
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.Form1.resources
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.Properties.Resources.resources
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.csproj.GenerateResource.Cache
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.exe
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.pdb
+D:\Projects\Deparment\Deparment\obj\x86\Debug\Deparment.csprojResolveAssemblyReference.cache
